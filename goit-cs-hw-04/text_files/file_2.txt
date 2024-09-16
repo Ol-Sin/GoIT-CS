@@ -1,0 +1,1 @@
+In computer science, a thread of execution is the smallest sequence of programmed instructions.

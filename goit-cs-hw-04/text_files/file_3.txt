@@ -1,0 +1,1 @@
+Multiprocessing refers to the use of two or more CPUs within a single computer system.

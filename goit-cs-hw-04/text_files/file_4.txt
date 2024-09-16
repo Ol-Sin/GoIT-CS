@@ -1,0 +1,1 @@
+Python supports both threading and multiprocessing for parallel execution of code.
